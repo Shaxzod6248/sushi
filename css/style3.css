@@ -1,0 +1,59 @@
+.button {
+  background-color: black;
+  color: white;
+  margin: 20px auto 0 auto;
+  padding: 15px 25px;
+  width: 150px;
+  text-align: center;
+  border-radius: 3mm;
+  font-size: larger;
+  
+}
+.contact {
+  background-color: lightgray;
+  color: black;
+  margin: 0px auto 0 auto;
+  padding: 10px 20px;
+  width: 300px;
+  font-size: x-large;
+  font-weight: bold;
+}
+.phone {
+  background-color: lightgrey;
+  padding: 10px 20px;
+  margin: 0 auto 0 auto;
+  width: 300px;
+  font-size: large;
+}
+.number {
+  background-color: lightgrey;
+  padding: 10px 20px;
+  margin: 0 auto 0 auto;
+  width: 300px;
+  font-size: large;
+}
+.img-center {
+  margin-top: 20px;
+  text-align: center;
+}
+.seo {
+  background-color: lightgrey;
+  padding: 20px 30px;
+  margin: 10px auto 0 auto;
+  width: 200px;
+  font-size: large;
+}
+.analise {
+  background-color: lightgrey;
+  padding: 10px 30px;
+  margin: 0 auto 0 auto;
+  width: 200px;
+  font-size: large;
+}
+.monalise {
+  background-color: lightgrey;
+  padding: 10px 30px;
+  margin: 0 auto 0 auto;
+  width: 200px;
+  font-size: large;
+}
